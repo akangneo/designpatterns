@@ -1,0 +1,6 @@
+E:\Project Collection\BHp\4. Labs\Design Pattern\Builder\bin\Debug\Builder.exe.config
+E:\Project Collection\BHp\4. Labs\Design Pattern\Builder\bin\Debug\Builder.exe
+E:\Project Collection\BHp\4. Labs\Design Pattern\Builder\bin\Debug\Builder.pdb
+E:\Project Collection\BHp\4. Labs\Design Pattern\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+E:\Project Collection\BHp\4. Labs\Design Pattern\Builder\obj\Debug\Builder.exe
+E:\Project Collection\BHp\4. Labs\Design Pattern\Builder\obj\Debug\Builder.pdb
